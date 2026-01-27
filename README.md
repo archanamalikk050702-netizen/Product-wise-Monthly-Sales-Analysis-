@@ -11,6 +11,9 @@ The main aim is to understand sales patterns and product performance through bas
 ### line Chart
 ![line chart plot](https://github.com/user-attachments/assets/3e6425b5-06a4-4ebc-93d5-2d987836e1ac)
 ![line chart](https://github.com/user-attachments/assets/c9de39a5-fc57-4882-a0d4-c3d00ad38f86)
-### Pie chart![pie plot and pie chart](https://github.com/user-attachments/assets/36fec350-5ebb-4ffe-95d0-b452472f6eaf)
+### Pie chart
+![pie plot and pie chart](https://github.com/user-attachments/assets/36fec350-5ebb-4ffe-95d0-b452472f6eaf)
+### Observations
+![observation](https://github.com/user-attachments/assets/4b77a90a-91e1-4c10-bd3a-117d6eebdc6c)
 
 
